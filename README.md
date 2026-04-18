@@ -1,0 +1,1 @@
+# gscanplus-privacy
